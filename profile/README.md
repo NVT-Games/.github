@@ -23,6 +23,6 @@ We are a team of gaming enthusiasts dedicated to enhancing your gaming experienc
 ## Contact Us
 
 If you have any questions, suggestions, or need support, feel free to reach out to us at:  
-**Email**: [nvtmre@gmail.com](mailto:nvtmre@gmail.com)
+**Issues section**
 
 Explore our projects and join our growing community to make gaming more exciting together!
