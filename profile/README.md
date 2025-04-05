@@ -20,4 +20,9 @@ We are a team of gaming enthusiasts dedicated to enhancing your gaming experienc
 - **Passion**: We are committed to our craft and believe in the power of gaming.
 - **Engagement**: We value transparency and actively engage with our community.
 
+## Contact Us
+
+If you have any questions, suggestions, or need support, feel free to reach out to us at:  
+**Email**: [nvtmre@gmail.com](mailto:nvtmre@gmail.com)
+
 Explore our projects and join our growing community to make gaming more exciting together!
